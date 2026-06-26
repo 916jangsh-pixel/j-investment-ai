@@ -1,9 +1,3 @@
 streamlit
 pandas
 Pillow
-streamlit
-pandas
-plotly
-requests
-Pillow
-streamlit-plotly-events
