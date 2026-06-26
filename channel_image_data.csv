@@ -1,0 +1,3 @@
+﻿created_at,symbol,timeframe,channel_type,expected_direction,confidence,breakout_status,result_status,memo,image_path,original_filename,id,updated_at
+2026-06-26 20:07:34,BTCUSDT,5m,하락채널,LONG,85,채널 내부,성공,하락채널상단 돌파 시  롱 진입 ,uploaded_images\20260626_200734_BTCUSDT_5m.jpg,하락채널.JPG,c11b8666-f9ef-4b46-a8b1-d97da4170ff6,2026-06-26 20:39:06
+2026-06-26 20:20:54,BTCUSDT,5m,상승채널,SHORT,90,하단 이탈 완료,성공,상승 채널 이탈 후 하락 ,uploaded_images\20260626_202054_BTCUSDT_5m_6265aa46.jpg,상승채널 채널 이탈시 숏.JPG,6265aa46-52ae-4aec-bc18-f744aa58ad6f,2026-06-26 20:20:54
